@@ -1,0 +1,31 @@
+alias pa='php artisan'
+
+alias pas='php artisan serve'
+
+alias pam='php artisan migrate'
+
+alias pamf='php artisan migrate:fresh'
+
+alias pamm='php artisan make:migration'
+
+alias model='php artisan make:model'
+
+alias cntrl='php artisan make:controller'
+
+alias policy='php artisan make:policy'
+
+alias middleware='php artisan make:middleware'
+
+alias routes='php artisan route:list'
+
+alias wip='git add . && git commit -m “wip” && git push'
+
+alias gst='git status'
+
+alias ni='npm install'
+
+alias watch='npm run watch'
+
+alias prod='npm run prod'
+
+alias cr='composer require'
